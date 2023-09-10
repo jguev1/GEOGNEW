@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "dailystops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -8799916.252810254693031, 4288280.531139082275331 ] } },
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8799802.924542400985956, 4288422.496119780465961 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -8800257.456197341904044, 4287948.467128436081111 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -8799768.326650690287352, 4288349.631206065416336 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ -8799661.212060991674662, 4288305.811601188965142 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ -8799569.921217501163483, 4288353.282839804887772 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ -8799609.48058301396668, 4288224.258447668515146 ] } }
+]
+}
